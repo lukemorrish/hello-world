@@ -1,2 +1,3 @@
 # hello-world
 Luke learning the ropes....
+As I am about to embark on this new journey with GitHub it seems sensible to start off with this tutorial
